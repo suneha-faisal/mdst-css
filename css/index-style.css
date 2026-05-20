@@ -1,0 +1,19 @@
+
+
+
+ .content{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+.box2 img{
+    height: 450px;
+    
+}
+
+@media (min-width: 325px) and (max-width: 425px) {
+    
+}
+
+
