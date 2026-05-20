@@ -1,19 +1,19 @@
-
-
-
- .content{
+.content {
     display: flex;
     justify-content: space-evenly;
     padding-top: 20px;
 }
 
-.box2 img{
+.box2 img {
     height: 450px;
-    
+
 }
 
-@media (min-width: 325px) and (max-width: 425px) {
+@media (min-width: 320px) and (max-width: 425px) {
+     .box2 img {
+        height: 118px;
+    }
     
+ 
+
 }
-
-
