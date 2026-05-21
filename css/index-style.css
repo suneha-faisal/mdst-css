@@ -13,7 +13,14 @@
      .box2 img {
         height: 118px;
     }
-    
+}
+
+
+@media  (min-width: 425px) and (max-width: 768px) {
+     
+    .box2 img{
+        height: 225px;
+    }
  
 
 }
